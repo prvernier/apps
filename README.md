@@ -1,2 +1,3 @@
-# rshinylive
-shinylive test app
+# Apps
+
+Testing ground for shinylive apps
